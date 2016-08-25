@@ -1,4 +1,4 @@
 <--! files to beignored -->
 virtualenv/
 .idea/
-
+*.psc
